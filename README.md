@@ -1,3 +1,4 @@
+بسم الله والحمد لله والصلاة والصلام على رسول الله وعلى آله وصحبه
 # Filament PopupModal
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/maystro/filament-popup-modal.svg?style=flat-square)](https://packagist.org/packages/maystro/filament-popup-modal)
@@ -211,7 +212,7 @@ return [
 
 ## Requirements
 
-- Laravel 10.x or 11.x
+- Laravel 12.x
 - FilamentPHP 3.x
 - Livewire 3.x
 - PHP 8.1+
